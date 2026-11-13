@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+yolo26x.pt
+yolov8x-worldv2.pt
+detected.mp4
+detected_*.mp4
+tunnel.log
+detect_preview/
+preview_frames/
+weights/
+.streamlit/secrets.toml

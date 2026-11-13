@@ -1,0 +1,9 @@
+﻿streamlit>=1.32.0
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+ultralytics>=8.4.212
+opencv-python>=4.7.0
+lapx>=0.5.2
+pillow>=10.0.0
+imageio-ffmpeg>=0.5.0
